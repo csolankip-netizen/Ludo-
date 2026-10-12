@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Master - Offline & AI Multiplayer",
+  "description": "Classic Ludo board game featuring local pass & play, intelligent AI bots with distinct personalities, custom game rules, tactile dice, and statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
